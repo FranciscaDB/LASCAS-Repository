@@ -1,2 +1,4 @@
 # LASCAS-Repository
-![Flow Diagram](Flow_Diagram.jpg)
+<p align="center">
+  <img src="Flow_Diagram.jpg" width="400">
+</p>
