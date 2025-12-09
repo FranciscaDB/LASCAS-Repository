@@ -1,5 +1,5 @@
 % Load reference data
-data = readmatrix('Gold_Ref_Sim.csv');
+data = readmatrix('Gold_Ref_PLECs.csv');
 
 % Extract input and reference signals
 Vfcref = data(2, :);
